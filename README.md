@@ -20,7 +20,7 @@ The **Personal Fitness Tracker** is a web application built with **Streamlit** t
 ## 🚀 Installation & Setup
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/personal-fitness-tracker.git
+   git clone https://github.com/coolguy-sree/Personal_Fitness_Tracker-using-Python.git
    ```
 2. Navigate to the project folder:
    ```sh
